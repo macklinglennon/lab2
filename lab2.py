@@ -1,6 +1,7 @@
 #lab2 by Mac Glennon
 
 #ask the user for an algebraic expression
+
 s = str(input("Input an algebraic expression: "))
 
 #find the operator
